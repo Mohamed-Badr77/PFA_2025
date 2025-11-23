@@ -75,5 +75,4 @@ Le design est **100% dark mode**, moderne et ergonomique. L’application intèg
 
 ---
 
-## 5️⃣ Diagramme des écrans et flux utilisateurs
 
