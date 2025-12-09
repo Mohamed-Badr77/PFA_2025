@@ -62,15 +62,15 @@ Le design est **100% dark mode**, moderne et ergonomique. L’application intèg
   - Recommandation simple rules-based (secteur, compétences)
   - Recommandation avancée : embeddings textuels + similarité cosine
   - Option score de compatibilité prédictif basé sur IA
-- **Outils** : Python, pandas, scikit-learn, transformers, FAISS
+- **Outils** : Python, transformers, FAISS, Gemini
 
 ---
 
 ## 4️⃣ Architecture technique
-- **Frontend** : Flutter (iOS & Android)
+- **Frontend** : React-Native (iOS & Android)
 - **Backend / Base de données** : Firebase Firestore
 - **Authentification & Notifications** : Firebase Auth + Firebase Cloud Messaging
-- **Machine Learning** : Python + FAISS / scikit-learn pour recommandations
+- **Machine Learning** : Embeddings avec Gemini & similarité
 - **Dark mode** : tous les écrans et composants UI
 
 ---
